@@ -1,7 +1,7 @@
 Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-I'm 24 y.o junior-developer
+I'm 24 y.o junior data scientist
 ---------------------------
 
 I strive to develop my programming and IT skills by working on interesting projects and solving complex problems. I am looking for internship opportunities and projects that will allow me to apply and expand my knowledge in a real-world setting.
