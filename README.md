@@ -8,7 +8,7 @@ I strive to develop my programming and IT skills by working on interesting proje
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [t.me/llletthemsing](mailto:t.me/llletthemsing)
-* 🧠  I'm currently learning: django, REST API, PostgreSQL
+* 🧠  I'm currently learning: Elements of Probability Theory And Mathematical Statistics, Data Science
 
 ### Skills
 
