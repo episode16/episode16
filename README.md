@@ -49,7 +49,8 @@ I strive to develop my programming and IT skills by working on interesting proje
 ### Badges
 
 <a href="https://github.com/episode16" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=episode16&layout=compact&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Languages&hide=javascript,html,css,c,c%2B%2B,shell,makefile,dockerfile,powershell" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=episode16&layout=compact&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Languages&hide=javascript,html,css,c,c%2B%2B,shell,makefile,dockerfile,powershell&langs=python,jupyter%20notebook,git,sql" alt="Languages" />
 </a>
+
 
 
