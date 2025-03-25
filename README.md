@@ -6,6 +6,28 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
 📚 **Learning:** Advanced ML, Deep Learning, and Data Engineering.  
 💬 **Ask me about:** Python, Jupyter, and data visualization.  
 
+### 📚 Education & Courses
+
+#### **Current Studies**
+- **Deep Learning School**  
+  *MIPT (Phystech School of Applied Mathematics and Informatics)*  
+  *2025 | Moscow*  
+  Advanced coursework in deep learning architectures, NLP, and computer vision.
+
+- **School 21 (Sber’s Data Science Track)**  
+  *April 2024 – Present | Moscow*  
+  Project-based training in ML, data pipelines, and collaborative coding (peer-to-peer learning).
+
+#### **Completed Programs**
+- **Fundamentals of Machine Learning**  
+  *Lomonosov Moscow State University (Faculty of Computational Mathematics and Cybernetics)*  
+  *2024 | Moscow*  
+  Covered supervised/unsupervised learning, model evaluation, and Python frameworks (Scikit-learn, PyTorch).
+
+- **MSc in Engineering Geology**  
+  *Lomonosov Moscow State University*  
+  *Graduated 2023 | Moscow*  
+  Thesis on geostatistical modeling and data analysis in geological systems.
 ---
 
 ### 🛠️ Skills
