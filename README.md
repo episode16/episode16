@@ -24,7 +24,7 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
   *2024 | Moscow*  
   Covered supervised/unsupervised learning, model evaluation, and Python frameworks (Scikit-learn, PyTorch).
 
-- **MSc in Engineering Geology**  
+- **Engineering Geology**  
   *Lomonosov Moscow State University*  
   *Graduated 2023 | Moscow*  
   Thesis on geostatistical modeling and data analysis in geological systems.
