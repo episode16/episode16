@@ -25,9 +25,6 @@ I strive to develop my programming and IT skills by working on interesting proje
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Jupyter Notebook" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Machine_learning.svg" width="36" height="36" alt="Machine Learning" />
-  </a>
 </p>
 
 
