@@ -12,7 +12,7 @@ I strive to develop my programming and IT skills by working on interesting proje
 
 ### Skills
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk4N2F6ZXo2MGtlcDcyYzhrejNxcWc2ajQyNmRkOHp0eDc1amN2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 
 <p align="left">
