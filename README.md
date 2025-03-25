@@ -1,7 +1,7 @@
-# Hi there! 👋
+# Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW41aDUwZW12Mms5Y2Z0dHhzcnJqNzh6bTA0bGg2cjd2aDhjaDhjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="20"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ddGvtRqYF75uDPzJb4/giphy.gif?cid=790b7611q59922ua0fxsjcnt8onys70o9gnfmkidg004dzhe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW41aDUwZW12Mms5Y2Z0dHhzcnJqNzh6bTA0bGg2cjd2aDhjaDhjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="200"/>
 </div>
 
 ---
@@ -33,7 +33,7 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <a href="https://github.com/episode16">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=episode16&theme=dark&hide_border=true&layout=compact&hide=makefile,dockerfile,powershell" alt="Top Languages" width="40%"/>
   </a>
