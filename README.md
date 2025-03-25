@@ -35,10 +35,10 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/episode16">
-    <img src="https://github-readme-stats.vercel.app/api?username=episode16&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=episode16&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" width="45%"/>
   </a>
   <a href="https://github.com/episode16">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=episode16&theme=dark&hide_border=true&layout=compact&hide=javascript,html,css,c,c%2B%2B,shell" height="180" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=episode16&theme=dark&hide_border=true&layout=compact&hide=makefile,dockerfile,powershell" alt="Top Languages" width="40%"/>
   </a>
 </div>
 
