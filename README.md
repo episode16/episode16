@@ -68,5 +68,3 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
 
 ---
 
-⭐ **Fun Fact:** I automate everything I can!  
-📫 **How to reach me:** [t.me/llletthemsing](https://t.me/llletthemsing)
