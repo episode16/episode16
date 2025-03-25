@@ -2,7 +2,7 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 =================================================================================================================================
 
 I'm 25 y.o junior data scientist
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk4N2F6ZXo2MGtlcDcyYzhrejNxcWc2ajQyNmRkOHp0eDc1amN2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 ---------------------------
