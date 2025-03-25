@@ -1,5 +1,4 @@
 # Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW41aDUwZW12Mms5Y2Z0dHhzcnJqNzh6bTA0bGg2cjd2aDhjaDhjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="50"/>
----
 
 ### 🚀 About Me
 I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving complex problems through data.  
