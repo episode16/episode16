@@ -27,20 +27,7 @@ I'm a **25 y.o Junior Data Scientist** from Moscow, passionate about solving com
 ---
 
 ### 🛠️ Skills
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-</p>
+<p align="left"> <!-- Python --> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <!-- NumPy --> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> </a> <!-- Pandas --> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a> <!-- Matplotlib --> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> </a> <!-- Scikit-learn --> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/> </a> <!-- Jupyter --> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> </a> </p>
 
 ---
 
