@@ -20,15 +20,16 @@ I strive to develop my programming and IT skills by working on interesting proje
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudio-colored.svg" width="36" height="36" alt="Visual Studio" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="36" height="36" alt="Visual Studio" />
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter Notebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Jupyter Notebook" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ml-colored.svg" width="36" height="36" alt="Machine Learning" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Machine_learning.svg" width="36" height="36" alt="Machine Learning" />
   </a>
 </p>
+
 
 
 
